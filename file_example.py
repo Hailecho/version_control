@@ -17,3 +17,5 @@ for i in range(r + 1):
     print(' '*(m-t), x*i)
     # print(x, ' times ',' '*k, i,' = ',' '*(m-t), x*i)
 
+# add examples here 
+
